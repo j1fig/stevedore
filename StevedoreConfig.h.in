@@ -1,0 +1,4 @@
+// the configured options and settings for Stevedore
+#define Stevedore_VERSION_MAJOR @Stevedore_VERSION_MAJOR@
+#define Stevedore_VERSION_MINOR @Stevedore_VERSION_MINOR@
+#define Stevedore_VERSION_PATCH @Stevedore_VERSION_PATCH@
